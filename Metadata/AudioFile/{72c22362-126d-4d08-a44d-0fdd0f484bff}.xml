@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{f6049b50-40e0-4378-8e9c-949ebc63d1c3}">
+	<object class="AudioFile" id="{72c22362-126d-4d08-a44d-0fdd0f484bff}">
 		<property name="assetPath">
-			<value>SoundAssets/Interactibles/InterHPPickup.wav</value>
+			<value>SoundAssets/Interactibles/InterSwitch.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.43473922902494333</value>
+			<value>0.63331065759637184</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
