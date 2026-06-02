@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{36485280-5419-497d-af61-71c7bbac4781}">
+		<property name="note">
+			<value>One shot event for when the player character lands onto a surface after falling</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{78f1fd85-32a6-4628-b7aa-40ce32f52469}">
+		<property name="note">
+			<value>One shot sound for when something falls into an acid pool</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

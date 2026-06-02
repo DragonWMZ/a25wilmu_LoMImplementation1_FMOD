@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1339765a-0d38-4cae-a9f8-006c1843e29a}">
+		<property name="note">
+			<value>Looping sound of bubbling acid pools. To be drag and dropped as an emitter in desired locations.</value>
+		</property>
 		<property name="color">
 			<value>Green</value>
 		</property>

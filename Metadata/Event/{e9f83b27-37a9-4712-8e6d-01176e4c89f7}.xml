@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e9f83b27-37a9-4712-8e6d-01176e4c89f7}">
+		<property name="note">
+			<value>One shot event for when a chomper attacks the player character</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

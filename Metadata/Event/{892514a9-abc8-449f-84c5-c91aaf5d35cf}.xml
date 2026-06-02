@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{892514a9-abc8-449f-84c5-c91aaf5d35cf}">
+		<property name="note">
+			<value>One shot event for when the gunner boss uses its lightning attack</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

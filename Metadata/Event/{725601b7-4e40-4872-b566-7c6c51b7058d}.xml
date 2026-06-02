@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{725601b7-4e40-4872-b566-7c6c51b7058d}">
+		<property name="note">
+			<value>One shot event for when the gunner boss lets out steam. the SteamStage parameter controls steam intensity for the different stages
+SteamStage 1: first stage
+SteamStage 2: second stage</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

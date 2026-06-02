@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e4d284f2-79d7-4bde-9ea9-1ae9d27e2bd7}">
+		<property name="note">
+			<value>one shot event for when a player character picks up a health pickup</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>

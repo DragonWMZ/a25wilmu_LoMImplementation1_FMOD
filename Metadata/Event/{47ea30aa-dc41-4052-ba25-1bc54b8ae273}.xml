@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{47ea30aa-dc41-4052-ba25-1bc54b8ae273}">
+		<property name="note">
+			<value>One shot event for when the player character fires their ranged weapon</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

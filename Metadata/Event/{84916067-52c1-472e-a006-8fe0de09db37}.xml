@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{84916067-52c1-472e-a006-8fe0de09db37}">
+		<property name="note">
+			<value>one shot event for when the player character takes damage</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

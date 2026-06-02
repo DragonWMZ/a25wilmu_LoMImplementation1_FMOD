@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2f9d75cd-06db-41a6-bf0b-1367c2364f80}">
+		<property name="note">
+			<value>one shot event for when the player character picks up a key</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>

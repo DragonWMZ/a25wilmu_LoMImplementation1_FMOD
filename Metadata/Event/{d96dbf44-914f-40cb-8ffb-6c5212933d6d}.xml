@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d96dbf44-914f-40cb-8ffb-6c5212933d6d}">
+		<property name="note">
+			<value>placeholder to be disregarded</value>
+		</property>
 		<property name="name">
 			<value>Amb</value>
 		</property>

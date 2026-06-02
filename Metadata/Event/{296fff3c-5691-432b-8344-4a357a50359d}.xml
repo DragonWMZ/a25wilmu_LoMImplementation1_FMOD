@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{296fff3c-5691-432b-8344-4a357a50359d}">
+		<property name="note">
+			<value>Disregard. event was used to process the shield up sound</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

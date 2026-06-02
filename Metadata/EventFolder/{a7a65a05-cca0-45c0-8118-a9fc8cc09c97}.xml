@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EventFolder" id="{a7a65a05-cca0-45c0-8118-a9fc8cc09c97}">
+		<property name="note">
+			<value>Contents to be disregarded. Individual footstep events. Used as instruments in the main footstep event.</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

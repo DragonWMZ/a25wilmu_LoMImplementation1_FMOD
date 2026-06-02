@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a5e0a2c4-7289-461b-8c6f-058baae85bc2}">
+		<property name="note">
+			<value>one shot event for when the player activates a switch crystal</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>

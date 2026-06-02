@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b2264097-a6ea-490d-a353-14e7cd7dcc65}">
+		<property name="note">
+			<value>one shot event for when the gunner boss shield goes up or down. the ShieldState parameter determines if the shield is to go up or down.
+ShieldState 1: Shield up
+ShieldState 2: Shield down</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

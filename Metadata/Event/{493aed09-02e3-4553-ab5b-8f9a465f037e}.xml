@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{493aed09-02e3-4553-ab5b-8f9a465f037e}">
+		<property name="note">
+			<value>One shot event for when the player character swings their melee weapon</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a860c796-3fed-45f2-ac23-7a9fe51ad971}">
+		<property name="note">
+			<value>looping event for when a box is being pushed. the End parameter controls if the loop is to end</value>
+		</property>
 		<property name="color">
 			<value>Yellow</value>
 		</property>

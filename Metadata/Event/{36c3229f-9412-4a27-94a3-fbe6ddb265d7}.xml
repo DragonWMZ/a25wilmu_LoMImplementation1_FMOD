@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{36c3229f-9412-4a27-94a3-fbe6ddb265d7}">
+		<property name="note">
+			<value>one shot event for when a button is pressed in the UI. this event is also used for pressure plates</value>
+		</property>
 		<property name="color">
 			<value>Cyan</value>
 		</property>

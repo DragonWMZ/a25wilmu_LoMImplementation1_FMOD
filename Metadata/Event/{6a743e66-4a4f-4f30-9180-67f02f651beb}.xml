@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6a743e66-4a4f-4f30-9180-67f02f651beb}">
+		<property name="note">
+			<value>One shot event for when the player character takes a step. the Surface parameter controls what sound is played depending on what surface the player character is stepping on.
+Surface 0: Grass
+Surface 1: Stone
+Surface 2: Metal</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

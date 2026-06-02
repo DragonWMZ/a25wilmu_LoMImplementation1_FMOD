@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{8c416839-aa6e-4afd-b7fb-2104cea4dbd8}">
+		<property name="note">
+			<value>One shot event for when a chomper or a spitter dies</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>
