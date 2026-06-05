@@ -143,10 +143,16 @@ ShieldState 2: Shield down</value>
 	<object class="MixerBusEffectChain" id="{95c7b11a-fc34-4c99-abfa-eb08f4642c87}">
 		<relationship name="effects">
 			<destination>{32ff9463-7f2d-46b6-a936-4651e0e94834}</destination>
+			<destination>{4428b5c9-6885-430a-8438-ed02af3d13ea}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{00c7ef6f-98ad-41fe-b397-b3d8bd015d26}" />
 	<object class="MixerBusFader" id="{ec8d95dc-3de5-41de-8c94-c21b5e37a996}" />
 	<object class="SpatialiserEffect" id="{74d52a8b-49c2-466d-82cd-d9ea86f2486e}" />
 	<object class="MixerBusFader" id="{32ff9463-7f2d-46b6-a936-4651e0e94834}" />
+	<object class="GainEffect" id="{4428b5c9-6885-430a-8438-ed02af3d13ea}">
+		<property name="gain">
+			<value>9.5</value>
+		</property>
+	</object>
 </objects>
